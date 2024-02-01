@@ -35,7 +35,4 @@ WARNING: DO NOT MINIMIZE OR ALT-TAB THE SCREEN!
 
 plz give 5 cups of java
 
-![end 1](https://github.com/WeihaoWu1/MP2_FINAL/assets/144486921/031380e2-8831-455e-b103-a109610884a0)
-![end (3)](https://github.com/WeihaoWu1/MP2_FINAL/assets/144486921/7c9e3e48-a68c-4fbd-ac8b-2e8e02db9598)
-![end (2)](https://github.com/WeihaoWu1/MP2_FINAL/assets/144486921/91edf09c-4a8e-4539-82c2-9a456646edc0)
 
