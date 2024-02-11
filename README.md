@@ -33,6 +33,5 @@ Buttons: Google
 Our code is very reliable and scalable. There are no legal issues and benefits society such that it provides an escape from reality when there is no internet.
 WARNING: DO NOT MINIMIZE OR ALT-TAB THE SCREEN!
 
-plz give 5 cups of java
 
 
