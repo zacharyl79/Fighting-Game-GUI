@@ -1,3 +1,4 @@
+Created by: Zachary Lin, Weihao Wu, Raymond Weng
 Sources:
 
 Game Structure and Game Loop: https://www.youtube.com/watch?v=6_N8QZ47toY&list=PL4rzdwizLaxYmltJQRjq18a9gsSyEQQ-0
